@@ -1,1 +1,3 @@
 Ligne originale.
+Ligne modifiée par A.
+Ajout de la fonctionalité 1.
