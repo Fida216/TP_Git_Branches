@@ -1,2 +1,2 @@
 Ligne originale.
-Ligne modifiée par B.
+Ligne modifiée par A.
