@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ligne modifiée par B.
+=======
+Ligne originale.
+>>>>>>> fbbbbba85b32ba0d2e2e104f26a58e71dd5a96be
